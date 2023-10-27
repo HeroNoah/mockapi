@@ -12,7 +12,7 @@ MOCKAPI는 타이틀 그대로 Mock API 를 제공합니다.
 
 ## How to use
 
-[참고용 홈페이지](https://github.com/HeroNoah/mockapi/)
+[MOCKAPI WebSite](https://heronoah.github.io/mockapi/)
 
 ---
 
